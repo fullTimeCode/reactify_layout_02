@@ -48,7 +48,7 @@
   opacity: 0.5;
 }
 
-.testimonial .quote {
+.quote {
   background-image: url("./bg-pattern-quotation.svg");
   background-repeat: no-repeat;
   background-position: top right 10%;
